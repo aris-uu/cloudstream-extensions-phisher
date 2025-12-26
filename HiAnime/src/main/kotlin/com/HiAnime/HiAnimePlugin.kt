@@ -10,6 +10,7 @@ import com.lagradost.cloudstream3.plugins.Plugin
 enum class ServerList(val link: Pair<String, Boolean>) {
     HIANIMEZ_IS("https://hianimez.is" to true),
     BEST("https://hianime.to" to true),
+    HIANIMEZ_TO("https://hianimez.to" to true),
     HIANIME_NZ("https://hianime.nz" to true),
     HIANIME_BZ("https://hianime.bz" to true),
     HIANIME_PE("https://hianime.pe" to true),
