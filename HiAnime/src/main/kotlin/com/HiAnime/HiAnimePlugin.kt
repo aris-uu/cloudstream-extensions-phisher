@@ -14,7 +14,8 @@ enum class ServerList(val link: Pair<String, Boolean>) {
     HIANIME_BZ("https://hianime.bz" to true),
     HIANIME_CX("https://hianime.cx" to true),
     HIANIME_DO("https://hianime.do" to true),
-    BEST("https://hianimez.is" to true)
+    HIANIME_DK("https://hianime.dk" to true),
+    BEST("https://hianime.dk" to true)
 }
 
 @CloudstreamPlugin
